@@ -15,8 +15,8 @@ class Task1Test {
                 Arguments.of("()(())((()))", true),
                 Arguments.of("(())()()(()())", true),
                 Arguments.of("(()", false),
-                Arguments.of("", false),
-                Arguments.of(null, true)
+                Arguments.of("", true),
+                Arguments.of(null, false)
         );
     }
 
