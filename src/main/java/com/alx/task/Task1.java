@@ -1,4 +1,4 @@
-package com.alx.task1;
+package com.alx.task;
 
 public class Task1 {
 
